@@ -1,0 +1,7 @@
+model.pkl – Pre-trained machine learning model (Logistic Regression or Random Forest)
+
+shap_explainer.pkl – SHAP explainer object trained on the same data
+
+requirements.txt – As listed previously
+
+data/pndm_dataset.csv – The dataset (or similar from Kaggle)
